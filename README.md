@@ -81,8 +81,8 @@ This project uses the [Credit Card Fraud Detection dataset](https://www.kaggle.c
 If you'd like to connect, feel free to reach out:
 
 
-- GitHub: [YourUsername](https://github.com/priyalseth)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/priyal-seth-2493302a2/)
+- GitHub: [Priyal Seth](https://github.com/priyalseth)
+- LinkedIn: [Priyal Seth](https://www.linkedin.com/in/priyal-seth-2493302a2/)
 - Email: sethshreya1999@gmail.com
 
 ---
